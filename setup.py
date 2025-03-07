@@ -7,7 +7,7 @@ if os.path.exists("README.md"):
 else:
     long_description = "Package for Movies Recommendation"
       
-AUTHOR_NAME = "Pranit K"
+AUTHOR_NAME = "Aravind S"
 SRC_REPO = "src"
 LIST_OF_REQUIREMENTS = ["streamlit"]
 
@@ -16,7 +16,7 @@ setup(
     version = "0.0.1",
     author = AUTHOR_NAME,
     
-author_email = "pranitkpersonal@gmail.com",
+author_email = "aravinda392@gmail.com",
     description = "Package for Movies Recommendation",
     
 long_description = long_description,
